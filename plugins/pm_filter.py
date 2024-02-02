@@ -895,7 +895,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ], [
                 InlineKeyboardButton('↪️ Vσs Reqʋête Filɱ & Séɾie ↩️', url='https://t.me/showgroup3'),    
             ], [
-                InlineKeyboardButton('📺 Pσsteɾs Sɑɠɑ', url='https://t.me/filmserieshowsss2'),
+                InlineKeyboardButton('📺 Pσsteɾs Sɑɠɑ', url='https://t.me/netflixshowww'),
                 InlineKeyboardButton('🗂 Mєѕ Ƈнαι̂ηєѕ', url='https://t.me/flaurabelle'),
         
             ], [
@@ -942,7 +942,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],  [
                 InlineKeyboardButton('↪️ Vσs Reqʋête Filɱ & Séɾie ↩️', url='https://t.me/showgroup3'),    
             ],  [
-                InlineKeyboardButton('📺 Pσsteɾs Sɑɠɑ', url='https://t.me/filmserieshowsss2'),
+                InlineKeyboardButton('📺 Pσsteɾs Sɑɠɑ', url='https://t.me/netflixshowww'),
                 InlineKeyboardButton('🗂 Mєѕ Ƈнαι̂ηєѕ', url='https://t.me/flaurabelle'),
         
             ], [
